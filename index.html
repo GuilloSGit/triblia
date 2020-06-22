@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body class="bodyazul">
+
+<div class="topbar shadow">
+  <h1 class="text-center p-2">Triblia</h1>
+</div>
+
+    <div id="cardAzul" class="card text-white bg-primary mb-3 float-left puntajes extra shadow" style="max-width: 18rem;">
+        <div class="card-body">
+          <h5 class="card-title">EQUIPO AZUL</h5>
+            <h2 id="puntajeAzul" class="text-center">0</h2>
+        </div>
+      </div>
+      
+      <div id="cardRojo" class="card text-white bg-danger mb-3 float-right puntajes shadow" style="max-width: 18rem;">
+        <div class="card-body">
+          <h5 class="card-title">EQUIPO ROJO</h5>
+            <h2 id="puntajeRojo" class="text-center">0</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="central mx-auto col-8">
+        <h1 id="timer" class="text-white text-center pt-5 timer"></h3>
+
+        <br/>
+        <div id="cardPrincipal" class="card text-center mb-2 shadow pregunta" style="background-color:#e7e7e7; border-color:#e9e9eb;">
+          <div class="card-header">
+              <h4 class="card-title">Pregunta</h4>
+          </div>
+            <div class="card-body">
+            <h2 id="pregunta" class="card-text"> </h2>
+            <h2 id="textoBiblico"> </h2>
+          </div>
+        </div>
+
+        <button id="btnPrincipal" type="button" class="btn btn-primary btn-lg btn-block shadow">Ver Pregunta</button>
+        <div id="btnsCI" class="btn-group btn-block oculto shadow">
+            <button id="btnCorrecto" type="button" class="btn btn-success btn-lg">Correcto</button>
+            <button id="btnIncorrecto" type="button" class="btn btn-danger btn-lg">Incorrecto</button>
+        </div>
+
+    </div>
+
+    <div class="float">
+      <button id="masazul" class="btn btn-primary">+</button>
+      <button id="menosazul" class="btn btn-primary">-</button>
+      <button id="masrojo" class="btn btn-danger">+</button>
+      <button id="menosrojo" class="btn btn-danger">-</button>
+      <button id="cambiar" class="btn btn-dark">CAMBIAR EQUIPO</button>
+      <button id="pasar" class="btn btn-dark">PASAR PREGUNTA</button>
+      <button id="modificarTiempo" class="btn btn-dark">MODIFICAR TIEMPO</button>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="preguntas.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

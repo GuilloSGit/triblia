@@ -1,0 +1,45 @@
+@font-face{
+    font-family: shadow;
+    src: url(Stabillo.ttf)
+}
+
+h1{
+    font-family: shadow;
+    font-size: 100px;
+    color: white;
+    text-shadow: 0 0 20px rgb(195, 209, 253);
+}
+.topbar{
+    background-color: rgba(0, 0, 0, 0.061);
+}
+.bodyrojo{
+    background: linear-gradient(to right, #f7b733, #fc4a1a);
+}
+.bodyazul{
+    background: linear-gradient(to right, #1a8ffc, #33f7f7);
+}
+.puntajes{
+    margin: 4vh;
+}
+.oculto{
+    display: none;
+}
+.invisible{
+    visibility: hidden;
+}
+.extra{
+}
+.timer{
+    font-family: monospace;
+    font-size: 50px;
+}
+.float{
+	position:fixed;
+	bottom:40px;
+	right:40px;
+}
+
+*{
+    user-select: none;
+  
+}
