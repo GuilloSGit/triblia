@@ -394,54 +394,5 @@ var preguntas = [
         p: "¿Qué tenía que hacer el amo cuyo esclavo hebreo no deseaba emanciparse de él? (Éxodo 21:6.)",
         t: "(Éxodo 12:33-39)",
         r: "En Ramesés"
-    },
-    {
-        /* Pregunta #067 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    {
-        /* Pregunta #068 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    {
-        /* Pregunta #069 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    {
-        /* Pregunta #070 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    {
-        /* Pregunta #071 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    {
-        /* Pregunta #072 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    {
-        /* Pregunta #073 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    {
-        /* Pregunta #074 */
-        p: "",
-        t: "",
-        r: ""
-    },
-    
+    },   
 ]
