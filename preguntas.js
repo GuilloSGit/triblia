@@ -1,103 +1,103 @@
 var preguntas = [
     {
         /* Pregunta #001 */
-        p: "¿Quien fue la enfermera del rey David durante su vejez?",
+        p: "¿Quién fue la enfermera del rey David durante su vejez?",
         t: "(1 Reyes 1:1-4)",
         r: "Abisag"
     },
     {
         /* Pregunta #002 */
-        p: "¿Donde recibio Pablo la visión invitándole a pasar a Macedonia?",
+        p: "¿Dónde recibió Pablo la visión invitándole a pasar a Macedonia?",
         t: "(Hechos 16:8-12)",
         r: "Troas"
     },
     {
         /* Pregunta #003 */
-        p: "¿Como llamo Raquel a su ultimo hijo?",
+        p: "¿Cómo llamó Raquel a su último hijo?",
         t: "(Génesis 35:16-20)",
         r: "Ben-Oní"
     },
     {
         /* Pregunta #004 */
-        p: "¿Que profeta fue alimentado por cuervos?",
+        p: "¿Qué profeta fue alimentado por cuervos?",
         t: "(1 Reyes 17:6-7)",
         r: "Elías"
     },
     {
         /* Pregunta #005 */
-        p: "¿Quien llegó a ser sumo sacerdote luego de que Aarón murio?",
+        p: "¿Quién llegó a ser sumo sacerdote luego de que Aarón murió?",
         t: "(Deuteronomio 10:6)",
         r: "Eleazar"
     },
     {
         /* Pregunta #006 */
-        p: "¿De que diosa faricaba templetes Demetrio?",
+        p: "¿De qué diosa faricaba templetes Demetrio?",
         t: "(Hechos 19:23-41)",
         r: "Ártemis"
     },
     {
         /* Pregunta #007 */
-        p: "Quien fue el padre de Moisés",
+        p: "Quién fue el padre de Moisés",
         t: "(Éxodo 6:20)",
         r: "Amram"
     },
     {
         /* Pregunta #008 */
-        p: "¿Que nombres les puso Zacarías a sus cayados?",
+        p: "¿Qué nombres les puso Zacarías a sus cayados?",
         t: "(Zacarías 11:7-11)",
         r: "'Bondad' y 'Unión'"
     },
     {
         /* Pregunta #009 */
-        p: "¿Con que árbol comparó La sulamita a su amado?",
+        p: "¿Con qué árbol comparó la sulamita a su amado?",
         t: "(El Cantar de los Cantares 2:3)",
         r: "Manzano"
     },
     {
         /* Pregunta #010 */
-        p: "¿Que lugar era famoso debido a su oro?",
+        p: "¿Qué lugar era famoso debido a su oro?",
         t: "(1 Crónicas 29:4)",
         r: "Ofir"
     },
     {
         /* Pregunta #011 */
-        p: "¿Adonde huyo Jefté?",
+        p: "¿Adónde huyó Jefté?",
         t: "(Jueces 11:1-3)",
         r: "Tob"
     },
     {
         /* Pregunta #012 */
-        p: "¿Que ammonita se burlo de los israelitas durante la reconstruccion de las murallas?",
+        p: "¿Qué ammonita se burlo de los israelitas durante la reconstrucción de las murallas?",
         t: "(Nehemías 4:1-4)",
         r: "Tobías"
     },
     {
         /* Pregunta #013 */
-        p: "¿Como se les llamaba a los siervos del templo que no eran israelitas?",
+        p: "¿Cómo se les llamaba a los siervos del templo que no eran israelitas?",
         t: "(Esdras 7:24)",
         r: "Netineos"
     },
     {
         /* Pregunta #014 */
-        p: "¿A quienes les dio Jesús el sobrenombre de Boanerges?",
+        p: "¿A quiénes les dio Jesús el sobrenombre de Boanerges?",
         t: "(Marcos 3:16-19)",
         r: "Santiago y Juan"
     },
     {
         /* Pregunta #015 */
-        p: "¿Quien ayudó a David a frustrar la rebelion contra él, engañando a Absalón",
+        p: "¿Quién ayudó a David a frustrar la rebelión contra él, engañando a Absalón",
         t: "(2 Samuel 17:1-7)",
         r: "Husái"
     },
     {
         /* Pregunta #016 */
-        p: "¿A que profetisa consultó Josías luego de escuchar el libro de la ley?",
+        p: "¿A qué profetisa consultó Josías luego de escuchar el libro de la ley?",
         t: "(2 Reyes 22:11-14)",
         r: "Huldá"
     },
     {
         /* Pregunta #017 */
-        p: "¿Que lugar uso Salomón para construcciones navales?",
+        p: "¿Qué lugar uso Salomón para construcciones navales?",
         t: "(1 Reyes 9:26)",
         r: "Ezión-Guéber"
     },
@@ -117,7 +117,7 @@ var preguntas = [
         /* Pregunta #020 */
         p: "¿Qué le tejió la madre de Salomón a este el día de su casamiento?",
         t: "(El Cantar de los Cantares 3:9-11)",
-        r: "una corona de flores"
+        r: "Una corona de flores"
     },
     {
         /* Pregunta #021 */
@@ -145,7 +145,7 @@ var preguntas = [
     },
     {
         /* Pregunta #025 */
-        p: "¿Donde fue enterrado Absalón?",
+        p: "¿Dónde fue enterrado Absalón?",
         t: "(2 Samuel 18:14-17.)",
         r: "Dentro de un hoyo en el bosque"
     },
@@ -199,7 +199,7 @@ var preguntas = [
     },
     {
         /* Pregunta #034 */
-        p: " ¿Qué dos hombres sostuvieron las manos de Moisés hasta que Jehová le concedió a Israel la victoria sobre los amalequitas?",
+        p: "¿Qué dos hombres sostuvieron las manos de Moisés hasta que Jehová le concedió a Israel la victoria sobre los amalequitas?",
         t: "(Éxodo 17:8-13)",
         r: "Aarón y Hur"
     },
@@ -229,7 +229,7 @@ var preguntas = [
     },
     {
         /* Pregunta #039 */
-        p: "¿Que rey fue aconsejado por su madre para elegir un abuena esposa?",
+        p: "¿Qué rey fue aconsejado por su madre para elegir una buena esposa?",
         t: "(Proverbios 31)",
         r: "Lemuel"
     },
@@ -247,7 +247,7 @@ var preguntas = [
     },
     {
         /* Pregunta #042 */
-        p: "En la revelación que recibió Juan, ¿a quiénes vio sentados alrededor del trono de Jehová?",
+        p: "En las visiones que recibió Juan, ¿a quiénes vio sentados alrededor del trono de Jehová?",
         t: "(Revelación 4:1-6)",
         r: "A los veinticuatro ancianos"
     },
@@ -271,13 +271,13 @@ var preguntas = [
     },
     {
         /* Pregunta #046 */
-        p: "¿Cuánto pesaban las piedras de granizo simbólicas que cayeron cuando el séptimo ángel derramó su tazón de la cólera de Dios?",
+        p: "¿Cuánto pesaban las piedras de granizo simbólicas que caerían cuando el séptimo ángel derramó su tazón de la cólera de Dios?",
         t: "(Apocalipsis 16:17-21)",
         r: "Un talento"
     },
     {
         /* Pregunta #047 */
-        p: "¿Que escritor bíblico pidio a Jehová que que no se le diera “ni pobreza ni riqueza”",
+        p: "¿Que escritor bíblico pidió a Jehová que no se le diera “ni pobreza ni riqueza”",
         t: "(Proverbios 30:8, 9.)",
         r: "Agur"
     },
@@ -295,7 +295,7 @@ var preguntas = [
     },
     {
         /* Pregunta #050 */
-        p: "¿Como se llamaba el hombre a quién Pedro le cortó la oreja derecha con una espada cuando llegó la muchedumbre para arrestar a Jesús?",
+        p: "¿Cómo se llamaba el hombre a quién Pedro le cortó la oreja derecha con una espada cuando llegó la muchedumbre para arrestar a Jesús?",
         t: "(Juan 18:6-11)",
         r: "Malco"
     },
@@ -307,7 +307,7 @@ var preguntas = [
     },
     {
         /* Pregunta #052 */
-        p: "¿Quién informó al rey Asuero de que Hamán había hecho un madero de 50 codos para colgar a Mardoqueo, lo que hizo que el rey colgara a Hamán en él?",
+        p: "¿Quién informó al rey Asuero de que Hamán había hecho un madero de 50 codos para colgar a Mardoqueo?",
         t: "(Ester 7:6-10)",
         r: "Harboná, uno de los oficiales de la corte"
     },
@@ -391,8 +391,8 @@ var preguntas = [
     },
     {
         /* Pregunta #066 */
-        p: "¿Qué tenía que hacer el amo cuyo esclavo hebreo no deseaba emanciparse de él? (Éxodo 21:6.)",
-        t: "(Éxodo 12:33-39)",
-        r: "En Ramesés"
+        p: "¿Qué tenía que hacer el amo cuyo esclavo hebreo no deseaba emanciparse de él?",
+        t: "(Éxodo 21:6.)",
+        r: "Hacerle un hueco en la oreja con un punzón"
     },   
 ]
